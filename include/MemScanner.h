@@ -1,0 +1,8 @@
+//
+// Created by hp on 3/16/2026.
+//
+
+#ifndef EMBEDDED_COMM_KIT_MEMSCANNER_H
+#define EMBEDDED_COMM_KIT_MEMSCANNER_H
+
+#endif //EMBEDDED_COMM_KIT_MEMSCANNER_H
